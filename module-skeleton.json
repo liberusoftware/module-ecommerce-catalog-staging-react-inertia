@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-catalog-staging-react-inertia",
+  "capabilityKey": "planned:ecommerce:catalog-staging",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-catalog-staging-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/catalog-staging.md",
+  "presentationPlan": "projects/ecommerce/react/catalog-staging.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
